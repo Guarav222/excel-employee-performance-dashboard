@@ -20,8 +20,6 @@ Tools Used
 Use Case
 This dashboard helps analyze employee productivity and supports data-driven decision-making.
 
-Screenshot
-![Uploading image.png…]()
 
 Author
 Gaurav Rajput
